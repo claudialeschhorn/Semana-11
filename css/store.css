@@ -1,0 +1,85 @@
+body {
+	background-color: #141043;
+}
+
+header {
+	width: 95%;
+	border-radius: 4px;
+	margin: auto;
+	background-color: #4C5AA8;
+
+}
+
+
+header img {
+	height: 150px;
+	width: 700px;
+}
+
+nav {
+	background-color: #ffdb4f;
+	height: 35px;
+	padding-top: 10px;
+	word-spacing: 200px;
+	border-radius: 4px;
+	word-spacing: 50px;
+}
+
+section {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+}
+
+div {
+	width: 25%;
+	border-radius: 5px;
+	background-color: #4C5AA8;
+	margin-bottom: 50px;
+	padding: 10px;
+
+}
+
+a {
+	text-decoration: none;
+	color: white;
+	text-transform: uppercase;
+	font-family: 'Gamja Flower', cursive;
+	font-size: 24px;
+
+}
+
+a:hover {
+	font-weight: bold;
+	color: #4C5AA8;
+}
+
+h1 {
+	font-family: 'Gamja Flower', cursive;
+	color: white;
+
+}
+
+img {
+	width: 100%;
+	border-radius: 5px;
+	
+}
+
+
+#merch1:hover {
+	content: url(../img/1hover.png);
+}
+
+#merch2:hover {
+	content: url(../img/2hover.png);
+}
+
+#merch3:hover {
+	content: url(../img/3hover.png);
+}
+
+#merch4:hover {
+	content: url(../img/4hover.png);
+}
+

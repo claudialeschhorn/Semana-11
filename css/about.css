@@ -1,0 +1,116 @@
+body {
+	background-color: #141043;
+}
+
+a {
+	text-decoration: none;
+	color: white;
+	text-transform: uppercase;
+	font-family: 'Gamja Flower', cursive;
+	font-size: 24px;
+
+}
+
+a:hover {
+	font-weight: bold;
+	color: #4C5AA8;
+}
+
+h1 {
+    font-family: 'Gamja Flower', cursive;	
+    font-size: 36px;
+    color: white;
+
+
+}
+
+h2 {
+	font-family: 'Gamja Flower', cursive;	
+    font-size: 28px;
+    text-align: justify;
+    color: #17287b;
+}
+
+h3 {
+	
+}
+
+p {
+	text-align: justify;
+	font-family: 'Fira Sans', sans-serif;
+	color: white;
+	font-size: 16px;
+}
+
+header {
+	width: 95%;
+	border-radius: 4px;
+	margin: auto;
+	margin-bottom: 30px;
+	background-color: #4C5AA8;
+
+}
+
+header img {
+	height: 150px;
+	width: 700px;
+}
+
+footer {
+	height: 200px;
+	background-color: #4C5AA8;
+}
+
+nav {
+	background-color: #ffdb4f;
+	height: 35px;
+	padding-top: 10px;
+	border-radius: 4px;
+	word-spacing: 50px;
+}
+
+aside {
+	display: flex;
+	justify-content: flex-start; 
+	flex-direction: column;
+	width: 30%;
+	background-color: #4C5AA8;
+	border-radius: 4px;
+
+}
+
+section {
+	display: flex;
+	justify-content: flex-end;
+	flex-direction: column;
+	width: 50%;
+	background-color: #4C5AA8;
+	border-radius: 4px;
+	padding: 20px;
+}
+
+li {
+	font-family: 'Fira Sans', sans-serif;
+	color: white;
+	font-size: 16px;
+
+
+}
+
+#daniel {
+	width: 90%;
+	border-radius: 4px;
+	margin: 5%;
+}
+
+#wrapper {
+	display: flex;
+	justify-content: space-around;
+}
+
+#side {
+	width: 50%;
+}
+
+
+
